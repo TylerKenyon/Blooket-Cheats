@@ -151,7 +151,7 @@ details summary ~ * {
     bodyDiv.appendChild(footer);
     footer.style.fontSize = '0.9rem';
     footer.style.paddingBottom = '5px';
-    footer.innerHTML = (`<span>GUI by TheUltimateDude<br>Cheats by <a style="color: orange" href="https://www.youtube.com/channel/UCTXqmDE3wCHpZMmFlDwEFyg">technix</a></span>`);
+    footer.innerHTML = (`<span> THEESE CHEATS ARE IN BETA. GUI by TheUltimateDude<br>Cheats by <a style="color: orange" href="https://www.youtube.com/channel/UCTXqmDE3wCHpZMmFlDwEFyg">technix</a></span>`);
 
     var getValues = () => new Promise((e, t) => {
         try {
